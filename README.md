@@ -1,6 +1,6 @@
 # Git and Github Giude for Begginers
 
-### Download 
+### Download Softwares
     - VS Code (Code Editor)
     - Git Bash
 
